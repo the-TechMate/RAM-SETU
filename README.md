@@ -1,4 +1,5 @@
 RAM SETU
+
 RAM SETU is a hospital management solution developed as part of the Smart India Hackathon 2024. The project aims to optimize the queuing system in Outpatient Departments (OPDs), manage bed availability, and streamline patient admissions. Designed to be scalable and integrable with a city-wide healthcare module, RAM SETU is intended to improve efficiency and patient care in hospitals.
 
 Problem Statement
